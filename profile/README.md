@@ -1,12 +1,12 @@
 ---
 
-### 👋 Привет от *Auze-Team*
+# 👋 Привет от *Auze-Team*
 
-#### 🎇 Специализируемся на фронтенде, бэкенде и гейдеве
+## 🎇 Специализируемся на фронтенде, бэкенде и гейдеве
 
 Занимаемся разработкой веб-приложений, а также игр. В будущем **надеемся** сделать то, что поможет всем.. или хотя бы кому-то.
 
-#### 🛠 Наш стек технологий
+### 🛠 Наш стек технологий
 
 - **Core:** [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/) [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
