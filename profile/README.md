@@ -18,7 +18,7 @@
 
 - **Database:** [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-- **CI|CD:** [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+- **CI/CD:** [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 - **Gamedev:** [![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)](https://unity.com/) [![ShaderLab](https://img.shields.io/badge/ShaderLab-000000?style=for-the-badge&logo=shaderlab&logoColor=white)](https://docs.unity3d.com/Manual/SL-Reference.html) [![HLSL](https://img.shields.io/badge/HLSL-0078D7?style=for-the-badge&logo=hlgsl&logoColor=white)](https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl) [![GLSL](https://img.shields.io/badge/GLSL-964B00?style=for-the-badge&logo=glsl&logoColor=white)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))
 
