@@ -30,16 +30,16 @@
 #### 🏆 Участники
 
 **Основатель**
-- Основные навыки: Frontend, React, TypeScript, Backend, С#, .NETFramework, PostgreSQL
+- Основные навыки: *Frontend, React, TypeScript, Backend, С#, .NETFramework, PostgreSQL*
 - Контакты: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/n13ro) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/n1_3ro)
 
 **Первый Front**
-- Основные навыки: **Frontend, Vue, JavaScript**
+- Основные навыки: *Frontend, Vue, JavaScript*
 - Контакты: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ypags)
   
 
 **Первый UnityDev**
-- Основные навыки: **С#, Unity, Shaderlab, HLSL, GLSL**
+- Основные навыки: *Gamedev, С#, Unity, Shaderlab, HLSL, GLSL*
 - Контакты: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zzerud) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zzerud)
 ---
 
