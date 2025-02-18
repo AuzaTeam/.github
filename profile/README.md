@@ -27,7 +27,7 @@
 - **Email:** auzeteaminc@gmail.com
 - **Telegram:** @n1_3ro
 
-#### 🏆 Участники
+#### 🏆 Участники на начало 2025
 
 **Основатель**
 - Основные навыки: *Frontend, React, TypeScript, Backend, С#, .NETFramework, PostgreSQL*
