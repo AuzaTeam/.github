@@ -25,5 +25,20 @@
 - **Email:** auzeteaminc@gmail.com
 - **Telegram:** @n1_3ro
 
+#### 🏆 Участники
+
+- **Основатель (n13ro)**  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/n13ro)
+  Основные навыки: Frontend, React, TypeScript, Backend, С#, .NETFramework, PostgreSQL  
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/n1_3ro)
+
+- **Первый Front**  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ypags)  
+  Основные навыки: Frontend, Vue, JavaScript 
+
+- **Первый UnityDev**
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zzerud)
+  Основные навыки: С#, Unity, Shaderlab, HLSL, GLSL 
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zzerud)
 ---
 
