@@ -1,11 +1,6 @@
 ---
 
 # 👋 Привет от *AuzaTeam*
-
-### 🎇 Специализируемся на frontend, backend и gamedev
-
-Занимаемся разработкой веб-приложений, а также игр. В будущем **надеемся** сделать то, что поможет всем.. или хотя бы кому-то.
-
 ### 🛠 Наш стек технологий
 
 - **Core:** [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
