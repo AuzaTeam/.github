@@ -18,8 +18,8 @@
 
 #### 🌍 Социальные сети и контакты
 
-- **Email:**<a href="auzateaminc@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"></a> - auzateaminc@gmail.com
-- **Telegram:** <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a> - @n1_3ro
+<a href="auzateaminc@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"></a> - auzateaminc@gmail.com
+<a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a> - @n1_3ro
 
 #### 🏆 Участники на начало 2025
 
