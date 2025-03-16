@@ -14,10 +14,8 @@
 
 - **Gamedev:** [![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)](https://unity.com/) [![ShaderLab](https://img.shields.io/badge/ShaderLab-000000?style=for-the-badge&logo=shaderlab&logoColor=white)](https://docs.unity3d.com/Manual/SL-Reference.html) [![HLSL](https://img.shields.io/badge/HLSL-0078D7?style=for-the-badge&logo=hlgsl&logoColor=white)](https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl) [![GLSL](https://img.shields.io/badge/GLSL-964B00?style=for-the-badge&logo=glsl&logoColor=white)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))
 
-#### 🌍 Социальные сети и контакты
-
-  <a href="auzateaminc@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"></a> - auzateaminc@gmail.com
-  <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a> - @n1_3ro
+<a href="auzateaminc@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"></a> - auzateaminc@gmail.com
+<a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a> - @n1_3ro
 
 #### 🏆 Участники на начало 2025
 
