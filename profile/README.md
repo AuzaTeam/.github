@@ -1,6 +1,7 @@
 ---
 
 # 👋 Привет от *AuzaTeam*
+
 ### 🛠 Наш стек технологий
 
 - **Core:** [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -35,5 +36,6 @@
 **Первый UnityDev**
 - Основные навыки: *Gamedev: С#, Unity, Shaderlab, HLSL, GLSL*
 - Контакты: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zzerud) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zzerud)
+- 
 ---
 
