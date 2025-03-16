@@ -29,7 +29,6 @@
 - Основные навыки: *Frontend: Vue, JavaScript*
 - Контакты: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ypags) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prostopotato)
   
-
 **Первый UnityDev**
 - Основные навыки: *Gamedev: С#, Unity, Shaderlab, HLSL, GLSL*
 - Контакты: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zzerud) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zzerud)
