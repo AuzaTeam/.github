@@ -1,9 +1,8 @@
 ---
- 
   <div align="center">
-     <h1>Привет от AuzaTeam <br/><a href="#"><img src="https://komarev.com/ghpvc/?username=AuzaTeam&style=flat-square&color=blue" alt=""></a></h1>
+     <h1>Привет от <b>AuzaTeam</b> <br/><a href="#"><img src="https://komarev.com/ghpvc/?username=AuzaTeam&style=flat-square&color=blue" alt=""></a></h1>
   </div>
-  <h2>🛠 Наш стек технологий</h2>
+  <h2 align="center">🛠 Наш стек технологий</h2>
   <div align="center">
      <p><b>Core</b></p>
      <img src="https://skillicons.dev/icons?i=cs,js,py" />
