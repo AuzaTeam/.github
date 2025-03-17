@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/a0d937d3-a843-4641-b0da-5bc122028cb3" alt="logo" align="middle">
+<div align="center" class="container">
+    <img src="https://github.com/user-attachments/assets/a0d937d3-a843-4641-b0da-5bc122028cb3" alt="logo">
+</div>
 <h1 align="center" style="font-size:2em;">🎇 Привет от <b>AuzaTeam</b></h1>
 <div align="center">
       <a href="auzateaminc@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"></a>
