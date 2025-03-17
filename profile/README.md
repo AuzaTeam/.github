@@ -3,8 +3,9 @@
       <a href="auzateaminc@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"></a>
       <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
   </div>
-  <p align="center">🛠 Наш стек технологий</p>
+  
   <div align="center">
+    <p align="center">🛠 Наш стек технологий</p>
      <p style="font-size:5em;">Core</p>
      <img src="https://skillicons.dev/icons?i=cs,js,py" />
      <p>Frontend</p>
