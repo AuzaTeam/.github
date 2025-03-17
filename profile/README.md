@@ -1,5 +1,5 @@
   <div align="center">
-      <h1 style="font-size:2em;">Привет от <b>AuzaTeam</b> <br/><a href="#"><img src="https://komarev.com/ghpvc/?username=AuzaTeam&style=flat-square&color=blue" alt=""></a></h1>
+      <h1 style="font-size:2em;">Привет от <b>AuzaTeam</b> <br/><img src="https://komarev.com/ghpvc/?username=AuzaTeam&style=flat-square&color=blue" alt=""></h1>
       <a href="auzateaminc@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"></a>
       <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
   </div>
