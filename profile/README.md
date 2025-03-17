@@ -6,15 +6,15 @@
   </div>
   <p align="center">🛠 Наш стек технологий</p>
   <div align="center">
-     <h2>Core</h2>
+     <p>Core</p>
      <img src="https://skillicons.dev/icons?i=cs,js,py" />
-     <h2>Frontend</h2>
+     <p>Frontend</p>
      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs" />
-    <h2>Backend</h2>
+    <p>Backend</p>
      <img src="https://skillicons.dev/icons?i=dotnet,fastapi" />
-    <h2>Database</h2>
+    <p>Database</p>
      <img src="https://skillicons.dev/icons?i=postgres,supabase" />
-    <h2>Gamedev</h2>
+    <p>Gamedev</p>
      <img src="https://skillicons.dev/icons?i=unity" />
   </div>
 
