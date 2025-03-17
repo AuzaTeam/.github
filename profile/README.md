@@ -8,16 +8,10 @@
   </div>
   
   <div align="center">
-     <p><b>Core</b></p>
-     <img src="https://skillicons.dev/icons?i=cs,js,py" />
-     <p><b>Frontend</b></p>
-     <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs" />
-    <p><b>Backend</b></p>
-     <img src="https://skillicons.dev/icons?i=dotnet,fastapi" />
-    <p><b>Database</b></p>
-     <img src="https://skillicons.dev/icons?i=postgres,supabase" />
-    <p><b>Gamedev</b></p>
-     <img src="https://skillicons.dev/icons?i=unity" />
+     <img src="https://github-widgetbox.vercel.app/api/core?languages=js,ts,html,css,csharp,postgresql,python" />
+     <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=vue,nuxt,react,next,tailwind,dotnetcore,dotnet" />
+     <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,npm" />
+     <img src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode,visual" />
   </div>
 
   <div align="center">
