@@ -1,5 +1,6 @@
 <h1 align="center" style="font-size:2em;">🎇 Привет от <b>AuzaTeam</b> </h1>
 <div align="center">
+      ![image](https://github.com/user-attachments/assets/288b781a-8d01-4cb8-a25a-f46415aa66c4)
       <a href="auzateaminc@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"></a>
       <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
   </div>
