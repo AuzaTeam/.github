@@ -1,6 +1,6 @@
 ---
  
- # 👋 Привет от *AuzaTeam* 
+ # 👋 Привет от *AuzaTeam*  <a href="#"><img src="https://komarev.com/ghpvc/?username=AuzaTeam&style=flat-square&color=blue" alt=""></a>
  ### 🛠 Наш стек технологий
  
  - **Core:** [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -14,7 +14,7 @@
  - **Gamedev:** [![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)](https://unity.com/) [![ShaderLab](https://img.shields.io/badge/ShaderLab-000000?style=for-the-badge&logo=shaderlab&logoColor=white)](https://docs.unity3d.com/Manual/SL-Reference.html) [![HLSL](https://img.shields.io/badge/HLSL-0078D7?style=for-the-badge&logo=hlgsl&logoColor=white)](https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl) [![GLSL](https://img.shields.io/badge/GLSL-964B00?style=for-the-badge&logo=glsl&logoColor=white)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))
  
  #### 🌍 Социальные сети и контакты
- <a href="#"><img src="https://komarev.com/ghpvc/?username=AuzaTeam&style=flat-square&color=blue" alt=""></a>
+
  - **Email:** auzateaminc@gmail.com
  - **Telegram:** @n1_3ro
  
