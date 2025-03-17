@@ -1,6 +1,10 @@
 ---
   <div align="center">
      <h1>Привет от <b>AuzaTeam</b> <br/><a href="#"><img src="https://komarev.com/ghpvc/?username=AuzaTeam&style=flat-square&color=blue" alt=""></a></h1>
+    <div id="badges" align="center">
+            <a href="auzateaminc@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"></a>
+            <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
+    </div>
   </div>
   <h2 align="center">🛠 Наш стек технологий</h2>
   <div align="center">
