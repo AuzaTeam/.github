@@ -5,16 +5,15 @@
   </div>
   
   <div align="center">
-    <p align="center">🛠 Наш стек технологий</p>
      <p><b>Core</b></p>
      <img src="https://skillicons.dev/icons?i=cs,js,py" />
-     <p>Frontend</p>
+     <p><b><Frontend/b></p>
      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs" />
-    <p>Backend</p>
+    <p><b>Backend</b></p>
      <img src="https://skillicons.dev/icons?i=dotnet,fastapi" />
-    <p>Database</p>
+    <p><b>Database</b></p>
      <img src="https://skillicons.dev/icons?i=postgres,supabase" />
-    <p>Gamedev</p>
+    <p><b>Gamedev</b></p>
      <img src="https://skillicons.dev/icons?i=unity" />
   </div>
 
