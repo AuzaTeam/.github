@@ -21,15 +21,9 @@
       <h1 style="font-size:2em;">🏆 Участники на начало 2025</h1>
       <p><b>n13ro</b> <br/>Основные навыки: <span><b>Frontend: React, TypeScript, Backend: С#, .NETFramework, PostgreSQL</b></span></p>
       <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
+      <p><b>Первый Front - Ypags</b> <br/>Основные навыки: <span><b>Frontend: Vue, JavaScript</b></span></p>
+      <a href="https://t.me/prostopotato"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
+      <p><b>Первый UnityDev - Zzerud</b> <br/>Основные навыки: <span><b>Frontend: React, TypeScript, Backend: С#, .NETFramework, PostgreSQL</b></span></p>
+      <a href="https://t.me/zzerud"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
   </div>
 
- 
- **Первый Front**
- - Основные навыки: *Frontend: Vue, JavaScript*
- - Контакты: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ypags) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prostopotato)
- 
- 
- **Первый UnityDev**
- - Основные навыки: *Gamedev: С#, Unity, Shaderlab, HLSL, GLSL*
- - Контакты: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zzerud) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zzerud)
- ---
