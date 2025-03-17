@@ -3,7 +3,7 @@
  # 👋 Привет от *AuzaTeam*  <a href="#"><img src="https://komarev.com/ghpvc/?username=AuzaTeam&style=flat-square&color=blue" alt=""></a>
  ### 🛠 Наш стек технологий
   <div align="center">
-     <h2>Core</h2>
+     <p>Core</p>
      <img src="https://skillicons.dev/icons?i=cs,js,py" />
   </div>
   <div align="center">
