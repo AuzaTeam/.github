@@ -16,12 +16,11 @@
 
   <div align="center">
       <h2 style="font-size:100px">🏆 Участники на начало 2025</h2>
-      <p><b>n13ro</b><br/><span><b>Frontend: React, TypeScript <br/>Backend: С#, .NETFramework, PostgreSQL</b></span></p>
       <img src="https://github-widgetbox.vercel.app/api/profile?username=n13ro&data=followers,repositories,stars,commits" alt="Telegram Badge">
       <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
-      <p>Первый Front - <b>Ypags</b> <br/><span><b>Frontend: Vue, JavaScript</b></span></p>
+      <img src="https://github-widgetbox.vercel.app/api/profile?username=Ypags&data=followers,repositories,stars,commits" alt="Telegram Badge">
       <a href="https://t.me/prostopotato"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
-      <p>Первый UnityDev - <b>Zzerud</b><br/><span><b>Gamedev: Unity, С#</b></span></p>
+      <img src="https://github-widgetbox.vercel.app/api/profile?username=Zzerud&data=followers,repositories,stars,commits" alt="Telegram Badge">
       <a href="https://t.me/zzerud"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
   </div>
 
