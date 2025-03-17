@@ -6,7 +6,7 @@
   
   <div align="center">
     <p align="center">🛠 Наш стек технологий</p>
-     <p style="font-size:5em;">Core</p>
+     <p><b>Core</b></p>
      <img src="https://skillicons.dev/icons?i=cs,js,py" />
      <p>Frontend</p>
      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs" />
