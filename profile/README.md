@@ -10,7 +10,7 @@
   <div align="center">
      <p><b>Core</b></p>
      <img src="https://skillicons.dev/icons?i=cs,js,py" />
-     <p><b><Frontend/b></p>
+     <p><b>Frontend</b></p>
      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs" />
     <p><b>Backend</b></p>
      <img src="https://skillicons.dev/icons?i=dotnet,fastapi" />
