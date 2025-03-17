@@ -21,7 +21,6 @@
       <h1 style="font-size:2em;">🏆 Участники на начало 2025</h1>
       <p><b>W</b> Основные навыки: </p><span><b>Frontend: React, TypeScript, Backend: С#, .NETFramework, PostgreSQL</b></span>
       <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
-      [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/n13ro)
   </div>
 
  
