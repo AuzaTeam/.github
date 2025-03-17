@@ -5,7 +5,7 @@
   </div>
   
   <div align="center">
-     <p><b>Core</b></p>
+     <span><b>Core</b></span>
      <img src="https://skillicons.dev/icons?i=cs,js,py" />
      <p><b><Frontend/b></p>
      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs" />
