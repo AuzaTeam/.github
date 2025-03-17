@@ -18,7 +18,7 @@
   </div>
 
   <div align="center">
-      <h1 style="font-size:2em;">🏆 Участники на начало 2025</h1>
+      <p style="font-size:100px">🏆 Участники на начало 2025</p>
       <p><b>n13ro</b> <br/>Основные навыки: <span><b>Frontend: React, TypeScript, Backend: С#, .NETFramework, PostgreSQL</b></span></p>
       <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
       <p><b>Первый Front - Ypags</b> <br/>Основные навыки: <span><b>Frontend: Vue, JavaScript</b></span></p>
