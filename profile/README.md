@@ -1,7 +1,9 @@
 ---
  
- # 👋 Привет от *AuzaTeam*  <a href="#"><img src="https://komarev.com/ghpvc/?username=AuzaTeam&style=flat-square&color=blue" alt=""></a>
- ### 🛠 Наш стек технологий
+  <div align="center">
+     <h1>Привет от *AuzaTeam*  <a href="#"><img src="https://komarev.com/ghpvc/?username=AuzaTeam&style=flat-square&color=blue" alt=""></a></h1>
+  </div>
+  <h2>🛠 Наш стек технологий</h2>
   <div align="center">
      <p><b>Core</b></p>
      <img src="https://skillicons.dev/icons?i=cs,js,py" />
