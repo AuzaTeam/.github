@@ -18,11 +18,6 @@
      <img src="https://skillicons.dev/icons?i=unity" />
   </div>
 
- #### 🌍 Социальные сети и контакты
-
- - **Email:** auzateaminc@gmail.com
- - **Telegram:** @n1_3ro
- 
  #### 🏆 Участники на начало 2025
  
  **^W^**
