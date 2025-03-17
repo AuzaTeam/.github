@@ -1,7 +1,9 @@
 <div align="center" class="container">
     <img src="https://github.com/user-attachments/assets/a0d937d3-a843-4641-b0da-5bc122028cb3" alt="logo">
 </div>
-<h1 align="center" style="font-size:2em;">🎇 Привет от <b>AuzaTeam</b></h1>
+<div id="views" align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%8BHello+from+AuzaTeam" alt="Typing Auza" />
+</div>
 <div align="center">
       <a href="auzateaminc@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"></a>
       <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
