@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size:2em;">Привет от <b>AuzaTeam</b> </h1>
-<img align="center" src="https://komarev.com/ghpvc/?username=AuzaTeam&style=flat-square&color=blue" alt="">
-<div align="center">      
+<div align="center">
+      <img src="https://komarev.com/ghpvc/?username=AuzaTeam&style=flat-square&color=blue" alt="Vi">
       <a href="auzateaminc@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"></a>
       <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
   </div>
