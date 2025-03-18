@@ -9,7 +9,7 @@
     <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
 </div>
 <div align="center">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,csharp,postgresql,python&includeNames=true" />
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,csharp,postgresql,python,json&includeNames=true" />
     <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=vue,nuxt,react,next,tailwind,dotnetcore,dotnet&includeNames=true" />
     <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,npm,null,null&includeNames=true" />
     <img src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode,null&includeNames=true" />
