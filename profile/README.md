@@ -9,13 +9,13 @@
     <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
 </div>
 <div align="center">
-    <h3 align="center">
+    <h3 align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=true&width=330&lines=%D0%A1%D0%B0%D0%BF+%D0%BE%D1%82+AuzaTeam;FearFusion+Games+%7C+AuzaTeam" alt="Typing SVG" /><br>
   Команда Auza собрана для интересного будущего :)<br><br>Начало наше, начинается с того, что мы собираем новичков для работы над интересными & сложными проектами<br><br>Всегда рады помочь ;)<br><br>
   Стек на начало 25го года
 </h3>
 
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
     <img src="https://skillicons.dev/icons?i=unity" height="45" alt="unity logo"  />
     <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
