@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=true&width=330&lines=%D0%A1%D0%B0%D0%BF+%D0%BE%D1%82+AuzaTeam;FearFusion+Games+%7C+AuzaTeam" alt="Typing SVG" /><br>
   Команда AuzaTeam стремится к созданию инновационного будущего через реализацию сложных и интересных проектов.
 </h3>
-<h3>Мы фокусируемся на следующих аспектах:</h3>
+<h3 align="left">Мы фокусируемся на следующих аспектах:</h3>
 <ul align="left">
     <li>Команда: Открыта для новичков, готовых учиться и вносить вклад в проекты.</li>
     <li>Инновации: Разработка новых решений и технологий, которые могут? изменить индустрию.</li>
