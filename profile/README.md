@@ -1,6 +1,4 @@
 <div align="center" class="container">
-    <img src="https://github.com/user-attachments/assets/a9f51306-3a67-400b-b468-9c62930dd2f8">
-    
     <img src="logoAUZA.svg">
 </div>
 <div id="views" align="center">
