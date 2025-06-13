@@ -30,6 +30,7 @@
     <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="dot-net logo"  />
     <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
     <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+    <img src="https://skillicons.dev/icons?i=go" height="45" alt="csharp logo"  />
     <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
     <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
     <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
