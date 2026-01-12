@@ -48,7 +48,7 @@
       <p>COO</p>
       <p>
         <a href="https://github.com/herrrubin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="https://t.me/auzateamind"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+        <a href="https://t.me/auzaspace"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
       </p>
       <img src="https://github-widgetbox.vercel.app/api/profile?username=herrrubin&data=followers,repositories,stars,commits" width="90%">
     </td>
@@ -63,7 +63,7 @@
       <p>Frontend</p>
       <p>
         <a href="https://github.com/IvanF0x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="https://t.me/auzateamind"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+        <a href="https://t.me/auzaspace"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
       </p>
       <img src="https://github-widgetbox.vercel.app/api/profile?username=IvanF0x&data=followers,repositories,stars,commits" width="90%">
     </td>
@@ -72,7 +72,7 @@
       <p>Frontend</p>
       <p>
         <a href="https://github.com/Ypags"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="https://t.me/auzateamind"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+        <a href="https://t.me/auzaspace"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
       </p>
       <img src="https://github-widgetbox.vercel.app/api/profile?username=Ypags&data=followers,repositories,stars,commits" width="90%">
     </td>
@@ -82,15 +82,15 @@
       <h3>Danya Usoltsev</h3>
       <p>Desing</p>
       <p>
-        <a href="https://github.com/AuzaTeam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="https://t.me/auzateamind"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+        <a href="https://github.com/AuzaSpace"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://t.me/auzaspace"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
       </p>
     </td>
     <td align="center">
       <h3>Dmitriev</h3>
       <p>Desing</p>
       <p>
-        <a href="https://github.com/AuzaTeam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://github.com/AuzaSpace"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
         <a href="https://t.me/Dmitriev_officiaI"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
       </p>
     </td>  
@@ -109,6 +109,6 @@
 
 **Свяжитесь с нами — давайте создадим что-то великое вместе!** 🚀
 
-[![Telegram](https://img.shields.io/badge/Обсудить_идею-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/auzateamind)
-[![GitHub](https://img.shields.io/badge/Изучить_проекты-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AuzaTeam)
-[![Email](https://img.shields.io/badge/Написать_нам-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:auzateamind@gmail.com)
+[![Telegram](https://img.shields.io/badge/Обсудить_идею-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/auzaspace)
+[![GitHub](https://img.shields.io/badge/Изучить_проекты-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AuzaSpace)
+[![Email](https://img.shields.io/badge/Написать_нам-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:auza.space@gmail.com)
