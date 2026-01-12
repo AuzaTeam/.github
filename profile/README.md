@@ -105,8 +105,8 @@
       <img src="https://github-widgetbox.vercel.app/api/profile?username=THEDAN320&data=followers,repositories,stars,commits" width="90%">
     </td>
     <td width="50%" align="center">
-      <h3>Artem</h3>
-      <p>Frontend</p>
+      <h3>Александр Климов</h3>
+      <p>Bacend | DevOps</p>
       <p>
         <a href="https://github.com/SadBlueYet"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
         <a href="https://t.me/skellleks"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
