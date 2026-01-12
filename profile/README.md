@@ -93,7 +93,27 @@
         <a href="https://github.com/AuzaSpace"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
         <a href="https://t.me/Dmitriev_officiaI"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
       </p>
-    </td>  
+    </td>
+    <tr>
+    <td width="50%" align="center">
+      <h3>Danil Mironenko</h3>
+      <p>Full-stack</p>
+      <p>
+        <a href="https://github.com/THEDAN320"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://t.me/THEDAN320"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+      </p>
+      <img src="https://github-widgetbox.vercel.app/api/profile?username=THEDAN320&data=followers,repositories,stars,commits" width="90%">
+    </td>
+    <td width="50%" align="center">
+      <h3>Artem</h3>
+      <p>Frontend</p>
+      <p>
+        <a href="https://github.com/SadBlueYet"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://t.me/skellleks"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+      </p>
+      <img src="https://github-widgetbox.vercel.app/api/profile?username=SadBlueYet&data=followers,repositories,stars,commits" width="90%">
+    </td>
+  </tr>
 </table>
 
 ## ✨ Присоединяйтесь к нашему движению
