@@ -2,9 +2,9 @@
     <img src="logoAUZA.svg">
 </div>
 <div id="views" align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%8BHello+from+AuzaTeam" alt="Typing Auza" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%8BHello+from+AuzaSpace" alt="Typing Auza" />
 </div>
-Команда AuzaTeam стремится к созданию инновационного будущего через реализацию сложных и интересных проектов.
+Команда Auza стремится к созданию инновационного будущего через реализацию сложных и интересных проектов.
 
 Мы фокусируемся на следующих аспектах:
 
