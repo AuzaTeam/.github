@@ -25,7 +25,7 @@
 ![Backend](https://skillicons.dev/icons?i=go,dotnet,fastapi)
 ![Database](https://skillicons.dev/icons?i=postgresql,redis)
 ![DevOps](https://skillicons.dev/icons?i=docker)
-![Tools](https://skillicons.dev/icons?i=git,github,gitlab)
+![Tools](https://skillicons.dev/icons?i=git,github,gitlab,figma)
 
 </div>
 
