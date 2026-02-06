@@ -22,7 +22,7 @@
 
 
 ![Frontend](https://skillicons.dev/icons?i=vue,nuxtjs)
-![Backend](https://skillicons.dev/icons?i=go,dotnet,fastapi)
+![Backend](https://skillicons.dev/icons?i=dotnet,fastapi)
 ![Database](https://skillicons.dev/icons?i=postgresql,redis)
 ![DevOps](https://skillicons.dev/icons?i=docker)
 ![Tools](https://skillicons.dev/icons?i=git,github,gitlab,figma)
